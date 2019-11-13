@@ -1,0 +1,14 @@
+使用Github工具
+网上有各类GIThub使用教程视频
+
+此文件下：
+
+右键GIT BASH HERE
+
+输入 git add .
+
+输入 git commit -m '版本号'
+
+输入 git push -u origin master 
+
+前往GitHub查看，即可下载。
